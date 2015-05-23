@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FedEx Wifi Communication Project.iml" filepath="$PROJECT_DIR$/FedEx Wifi Communication Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/QuizzerSide/QuizzerSide.iml" filepath="$PROJECT_DIR$/modules/QuizzerSide/QuizzerSide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/StudentSide/StudentSide.iml" filepath="$PROJECT_DIR$/modules/StudentSide/StudentSide.iml" />
+    </modules>
+  </component>
+</project>

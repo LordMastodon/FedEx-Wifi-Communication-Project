@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.illposed.osc:javaosc-ui:0.3" type="repository">
+    <properties maven-id="com.illposed.osc:javaosc-ui:0.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/illposed/osc/javaosc-ui/0.3/javaosc-ui-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
